@@ -1,6 +1,6 @@
 <img src="https://telegra.ph//file/305130b39be273d919ebf.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/DilwarBot/YukkiMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Alone Music Bot <img src="https://img.shields.io/github/v/release/DilwarBot/YukkiMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Alone Music Bot](https://github.com/DilwarBot/AloneYukkiMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
