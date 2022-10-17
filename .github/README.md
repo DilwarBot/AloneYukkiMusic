@@ -1,8 +1,8 @@
 <img src="https://telegra.ph//file/305130b39be273d919ebf.jpg" align="right" width="200" height="200"/>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/DilwarBot/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Yukki Music Bot <img src="https://img.shields.io/github/v/release/DilwarBot/YukkiMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Alone Music Bot](https://github.com/DilwarBot/AloneYukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Alone Music Bot](https://github.com/DilwarBot/AloneYukkiMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes with attractive thumbnails.
@@ -34,13 +34,13 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://github.com/DilwarBot/Aloneyukkimusic/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/DilwarBot)
+- [Telegram Support](https://t.me/The_Alone_Network)
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/DilwarBot/AloneYukkiMusic) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
